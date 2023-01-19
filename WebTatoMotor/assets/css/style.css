@@ -1,0 +1,37 @@
+.midnav {
+  background-color: #203067;
+  overflow: hidden;
+  height: 75px;
+  padding: 8px;
+  text-align: center;
+  color: white;
+  justify-content: center;
+  }
+  .bottomnav {
+  background-color: #edb23e;
+  overflow: hidden;
+  height: 45px;
+  padding: 8px;
+  text-align: center;
+  }
+  a {
+  color: black;
+  padding-right: 20px;
+  font-weight: bold;
+  text-decoration:none;
+  }
+  p b {
+  width: 100px;
+  }
+  select {
+  border: 1px solid #edb23e;
+  background-color: transparent;
+  font-weight: bold;
+  }
+  select option{
+  background-color: transparent !important;
+  border: 1px solid #e4e4e4;
+  color: #000;
+  -webkit-appearance: none; 
+  -moz-appearance: none; 
+  }
